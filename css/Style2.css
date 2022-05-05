@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css? family=Gothic+A1:400');
+html {font-size: 100%;} /*16px*/
+*{
+box-sizing: border-box;
+}
+.last-row {padding-bottom: 20px; }
+.c-header, .a-header { padding-top: 10px;
+padding-bottom: 10px; }
+.a-header {font-size: 30px;}
+.logo-c, .logo-bw, .logo-r { max-width: 300px;
+height: auto; }
+.logo-f {
+max-width: 50%;
+height: auto; }
+.maincontent{
+     width: 75vw;
+    margin: 1em auto;
+    } 
+    
+
+
+
+.button-f {color:aliceblue; }
+ 
+
+
+
+
+.toneheader {
+font-size: 48.3px;
+font-family: 'GothicA1', sans-serif; font-weight: 400;
+font-style:normal;
+} .toneheadertwo {
+font-size:39px;
+font-family: 'GothicA1', sans-serif; font-weight: 400;
+font-style:normal; }
+.toneheaderthree { font-size: 31.25px;
+font-family: 'GothicA1', sans-serif; font-weight: 400; font-style:normal;
+}
+.toneheaderfour { Font-size:25px;
+font-family: 'GothicA1', sans-serif; font-weight: 400; font-style:normal;
+}
+.toneheaderfive{ Font-size:20px;
+font-family: 'GothicA1', sans-serif;
+
+font-weight: 400; font-style:normal;
+} .sentence{
+font-size: 0.8rem;
+font-family: 'GothicA1', sans-serif; font-weight:400;
+font-style:normal;
+}
+.tonebody { font-size: 0.75rem;
+font-family: 'GothicA1', sans-serif; font-weight: 400;
+font-style:normal;
+}
+.emTextone{ font-size:16px;
+font-family: 'GothicA1', sans-serif; font-weight:550;
+}
+.LinkTextOne {
+font-family: 'Gothic A1', sans-serif; font-weight: 400;
+line-height: 1.75;
+}
+ 
+ .TypeMixedBody {
+font-family: "Merriweather", serif;
+font-weight: 400; font-style: normal; font-size: 48.3px;
+}
+.HeaderMixed {
+font-family: "Merriweather", serif; font-weight: 400;
+font-style: normal;
+font-size: 39px;
+}
+.HeaderMixedTwo {
+font-family: "Merriweather", serif; font-weight: 400;
+font-style: normal;
+font-size: 31.25px;
+}
+.HeaderMixedfour {
+font-family: "Merriweather", serif; font-weight: 400;
+font-style: normal; font-size:24px;
+}
+.BodyText { font-family:"Merriweather", serif; font-weight: 400;
+font-style: normal;
+font-size: 16px;
+
+}
+ .Sentence2{
+font-family: "opensans", sans-serif; font-weight:400;
+font-style: normal;
+font-size: 12px;
+} .emphasizeText{
+font-family: "Merriweather", serif; font-weight:550;
+font-style: normal; font-size:16px;
+} .tonebody1{
+font-family: "Merriweather", serif; font-weight: 400;
+font-style: normal;
+font-size: 12px;
+} .tonebodyz {
+
+ font-family: "gothicA1", sans-serif; font-weight:550;
+font-style: normal;
+font-size:12px;
+} .tonebodyx{
+font-family: "gothicA1", sans-serif; font-weight:550;
+font-style: normal;
+font-size:12px;
+}
+.tonebodyv{
+font-family: "Merriweather", serif; font-weight:550;
+font-style: normal; font-size:12px;
+} .tonebodyz{
+font-family: "opensans", sans-serif; font-weight: 550;
+font-style: normal;
+
+font-size: 12px;
+ }
+.tonebody2{
+font-family: "opensans", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 12px;
+}
+.oxygenHeader {
+font-family: "oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 48.3px;
+}
+.oxygenheadertwo {
+font-family: "oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 39px;
+}
+.oxygenheaderthree {
+font-family: "oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 31.25px;
+
+}
+.oxygenheaderfour {
+font-family: "oxygen", sans-serif; font-weight:400;
+font-style: normal;
+font-size: 25px;
+}
+.sentence3{
+font-family: "oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 12px;
+}
+.tonebody3{
+font-family: "oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 12px;
+}
+.oxygenbodytext {
+font-family:"Oxygen", sans-serif; font-weight: 400;
+font-style: normal;
+font-size: 16px;
+ 
+}
+.OxygenemTextone {
+font-family: "Oxygen", sans-serif; font-weight:550;
+font-style: normal; font-size:16px;
+} .tonebody4{
+font-family: "oxygen", sans-serif; font-weight: 550;
+font-style: normal;
+font-size: 12px;
+}
+.grey-color{
+background-color: aliceblue; }
